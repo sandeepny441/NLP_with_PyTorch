@@ -4,3 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 %matplotlib inline 
 
+remove stop words
+remove punctuation 
+remove uppercase
