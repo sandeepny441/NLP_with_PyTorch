@@ -4,6 +4,17 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 %matplotlib inline 
 
-remove stop words
-remove punctuation 
-remove uppercase
+general steps:
+      load data
+      clean data
+      EDA, data imbalance, prepare data
+      make features
+      reduce dimensioanlity
+      choose model
+      finetune, hyperparameter tuning, grid search, cross valiation
+      create metrics
+ 
+clean data
+      remove stop words
+      remove punctuation 
+      remove uppercase
