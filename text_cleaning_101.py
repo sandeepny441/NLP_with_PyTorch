@@ -13,8 +13,23 @@ general steps:
       choose model
       finetune, hyperparameter tuning, grid search, cross valiation
       create metrics
- 
+
+      
+load data
+      json
+      excel
+      csv 
+      html 
+         
 clean data
       remove stop words
       remove punctuation 
       remove uppercase
+      
+making features:
+      word2Vec
+      CBOW and Skip-gram
+      Glove
+      TF_IDF
+      Count Vectorizer
+      Dict Vectorizer 
