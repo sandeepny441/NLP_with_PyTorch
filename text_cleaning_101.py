@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd 
 import matplotlib.pyplot as plt
 import seaborn as sns 
+import sklearn
 %matplotlib inline 
 
 general steps:
@@ -11,7 +12,7 @@ general steps:
       make features--feature engineering
       reduce dimensioanlity
       choose model
-      finetune, hyperparameter tuning, grid search, cross valiation
+      finetune, hyperparameter tuning, cross valiation,  grid search, random search. 
       create metrics
 
       
