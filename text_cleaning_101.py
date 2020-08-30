@@ -8,7 +8,7 @@ general steps:
       load data
       clean data
       EDA, data imbalance, prepare data
-      make features
+      make features--feature engineering
       reduce dimensioanlity
       choose model
       finetune, hyperparameter tuning, grid search, cross valiation
