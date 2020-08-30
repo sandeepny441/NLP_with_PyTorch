@@ -26,6 +26,8 @@ clean data
       remove stop words
       remove punctuation 
       remove uppercase
+      Stemming
+      Lemmatization 
       
 making features:
       word2Vec
